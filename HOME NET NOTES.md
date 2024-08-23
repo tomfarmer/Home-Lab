@@ -26,7 +26,7 @@ esxcli software profile update -p ESXi-8.0U3-24022510-standard \ -d https://host
 Main command will take 5-15 minutes 
 
 
-![cool pics](Screenshot%202024-08-23%20at%2018.52.42.png)
+![testing](Images/Screenshot%202024-08-23%20at%2018.55.37.png)
 ESXI Shutdown:
 
 The link is to an ESXI shutdown script, installing the scripts in the datastore will make them persistent, don't worry about the error saying it will not.  
