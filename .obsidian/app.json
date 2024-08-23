@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Images",
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }
