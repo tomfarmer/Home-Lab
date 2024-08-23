@@ -24,7 +24,7 @@ Will give you commands to run update
 esxcli software profile update -p ESXi-8.0U3-24022510-standard \ -d https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml --no-hardware-warning
 
 Main command will take 5-15 minutes 
-![](Images/testing.ymal.rtf)
+![testing](Images/testing.ymal.rtf)
 
 ![testing](Images/Screenshot%202024-08-23%20at%2018.55.37.png)
 ESXI Shutdown:
