@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "843b04968209f501",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b117ddf39db79580",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -176,8 +162,10 @@
   },
   "active": "bac66dc69b7a7905",
   "lastOpenFiles": [
+    "Images/Screenshot 2024-08-23 at 18.43.03.png",
+    "ESXI Setup",
+    "HOME NET NOTES.md",
     "Images",
-    "Welcome.md",
-    "HOME NET NOTES.md"
+    "Welcome.md"
   ]
 }

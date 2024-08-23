@@ -1,6 +1,11 @@
 **
 
 
+# heading1
+## heading 2
+
+# Heading1
+# heading
 
 ESXI:
 
@@ -14,14 +19,13 @@ Esxi-patches.com
 
 Will give you commands to run update
 
-[https://esxi-patches.v-front.de/  
-](https://esxi-patches.v-front.de/)You will need to add --no-hardware-warning to the main command, example below
+[patch website](https://esxi-patches.v-front.de/)You will need to add --no-hardware-warning to the main command, example below
 
 esxcli software profile update -p ESXi-8.0U3-24022510-standard \ -d https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml --no-hardware-warning
 
 Main command will take 5-15 minutes 
 
-  
+  ![[Screenshot 2024-08-23 at 18.43.03.png]]
 
 ESXI Shutdown:
 
