@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bac66dc69b7a7905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME NET NOTES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ab22fe841d73dd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "23729bc04925d122",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Commands.md"
+                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md"
               }
             }
           }
@@ -160,16 +147,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "76d7bc38b54f0a3d",
+  "active": "3ab22fe841d73dd7",
   "lastOpenFiles": [
-    "HOME NET NOTES.md",
+    "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA VM Customization Specifications.md",
+    "Images",
+    "Purple Range Home Lab/Images",
+    "Purple Range Home Lab/ESXI/ESXI General/ESXI UPS Auto Shutdown.md",
+    "Purple Range Home Lab/ESXI/ESXI General/ESXI Update.md",
+    "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
+    "Purple Range Home Lab/VCSA - Vsphere/VCSA Errors",
+    "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Setup.md",
+    "Purple Range Home Lab/VCSA - Vsphere/VCSA General",
+    "Purple Range Home Lab/VCSA - Vsphere/Untitled.md",
+    "Purple Range Home Lab/VCSA - Vsphere",
+    "Purple Range Home Lab/ESXI/ESXI General/ESXI Setup.md",
     "Git Commands.md",
+    "Purple Range Home Lab/ESXI/ESXI Errors",
+    "Purple Range Home Lab/ESXI/ESXI Setup/Untitled",
+    "Purple Range Home Lab/ESXI/ESXI General",
+    "Purple Range Home Lab/ESXI/Untitled.md",
+    "Purple Range Home Lab/ESXI",
+    "Purple Range Home Lab",
     "Welcome.md",
-    "Images&Files/testing.ymal.rtf",
+    "HOME NET NOTES.md",
     "Images&Files/Screenshot 2024-08-23 at 18.55.37.png",
     "Images/Screenshot 2024-08-23 at 18.43.03.png",
-    "Images/Screenshot 2024-08-23 at 18.52.42.png",
-    "ESXI Setup",
-    "Images&Files"
+    "Images/Screenshot 2024-08-23 at 18.52.42.png"
   ]
 }
