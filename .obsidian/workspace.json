@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
+                "file": "Github Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
+                "file": "Github Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
+                "file": "Github Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md"
+                "file": "Github Commands.md"
               }
             }
           }
@@ -147,27 +147,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3ab22fe841d73dd7",
+  "active": "76d7bc38b54f0a3d",
   "lastOpenFiles": [
-    "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA VM Customization Specifications.md",
+    "Home Lab/TERRAFORM/TERRAFORM.md",
+    "Untitled",
+    "Home Lab/VCSA - Vsphere/VCSA General/VCSA Setup.md",
+    "Home Lab/VCSA - Vsphere/VCSA General/VCSA Backup Server.md",
+    "Home Lab/VCSA - Vsphere/VCSA General/VCSA VM Customization Specifications.md",
+    "Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
+    "Home Lab/TERRAFORM",
+    "Untitled.md",
+    "Home Lab/TERRAFORM.md",
+    "Home Lab/ESXI/ESXI General/ESXI Update.md",
+    "Home Lab/ESXI/ESXI General/ESXI UPS Auto Shutdown.md",
+    "Home Lab/ESXI/ESXI General/ESXI Setup.md",
     "Images",
     "Purple Range Home Lab/Images",
-    "Purple Range Home Lab/ESXI/ESXI General/ESXI UPS Auto Shutdown.md",
-    "Purple Range Home Lab/ESXI/ESXI General/ESXI Update.md",
-    "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
-    "Purple Range Home Lab/VCSA - Vsphere/VCSA Errors",
-    "Purple Range Home Lab/VCSA - Vsphere/VCSA General/VCSA Setup.md",
-    "Purple Range Home Lab/VCSA - Vsphere/VCSA General",
+    "Home Lab/VCSA - Vsphere/VCSA Errors",
+    "Home Lab/VCSA - Vsphere/VCSA General",
     "Purple Range Home Lab/VCSA - Vsphere/Untitled.md",
-    "Purple Range Home Lab/VCSA - Vsphere",
-    "Purple Range Home Lab/ESXI/ESXI General/ESXI Setup.md",
-    "Git Commands.md",
-    "Purple Range Home Lab/ESXI/ESXI Errors",
+    "Home Lab/VCSA - Vsphere",
+    "Github Commands.md",
+    "Home Lab/ESXI/ESXI Errors",
     "Purple Range Home Lab/ESXI/ESXI Setup/Untitled",
-    "Purple Range Home Lab/ESXI/ESXI General",
+    "Home Lab/ESXI/ESXI General",
     "Purple Range Home Lab/ESXI/Untitled.md",
-    "Purple Range Home Lab/ESXI",
-    "Purple Range Home Lab",
     "Welcome.md",
     "HOME NET NOTES.md",
     "Images&Files/Screenshot 2024-08-23 at 18.55.37.png",
