@@ -33,9 +33,13 @@ sudo sysctl -p
 ## Sensor Not Sending Data
 
 **Description:**
+
 Sec Onion sensor not sending data to the manager
+
 **Error:** 
+
 no data
+
 **Resolution:**
 you are using the wrong OS and version for sec onion. You need to reset everything up and select the correct version, right now Sec Onion 2.4 is using linux and Oracle Linux 9.x
 **Links:** 
