@@ -4,11 +4,14 @@
 
 **Description:**
 IPTables down and no traffic seen in Security Onion or Elastic at all. You can also suppress the errors that are coming to your console by following Resolution 2.
+
 **Error:**
 `IPTables-dropped: IN=ens192 (more data like MAC address)`
+
 **Resolution 1:**
 Go to the VSwitch where you have the management interfaces and turn off Promiscuous mode. It should be set to reject. This solves the no data issue but does not solve the IPTables problem.
 Link: [Resolution1](https://security.stackexchange.com/questions/176487/security-onion-vmware-openwrt-iptables-mirroring)
+
 **Resolution 2:**
 1) Edit the `/etc/sysctl.conf` file:
 ```bash
