@@ -33,15 +33,14 @@ sudo sysctl -p
 ## Sensor Not Sending Data
 
 **Description:**
-
 Sec Onion sensor not sending data to the manager
 
 **Error:** 
-
-no data
+No data
 
 **Resolution:**
 you are using the wrong OS and version for sec onion. You need to reset everything up and select the correct version, right now Sec Onion 2.4 is using linux and Oracle Linux 9.x
+
 **Links:** 
 [Sec Onion 2.4 Base OS](https://docs.securityonion.net/en/latest/virtualbox.html)
 
@@ -51,10 +50,13 @@ you are using the wrong OS and version for sec onion. You need to reset everythi
 
 **Description:**
 Sec Onion sensor not gathering network traffic on all ports
+
 **Error:**
 No data on promiscuous port 
+
 **Resolution:**
 You need to make sure ESXI has a “mirror” and “vlan 4095” selected/on and “MAC address changes” to allow all multiple sensors NICs.
+
 **Links:** 
 [Sec Onion on Vswitch](https://github.com/Security-Onion-Solutions/securityonion/discussions/7185)**
 
