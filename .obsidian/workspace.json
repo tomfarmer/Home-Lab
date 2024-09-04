@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home Lab/Security Onion/Security Onion Errors/Security Onion Error Codes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -149,14 +149,14 @@
   },
   "active": "3ab22fe841d73dd7",
   "lastOpenFiles": [
-    "Home Lab/Security Onion/Security Onion General/Security Onion Setup.md",
+    "Home Lab/VCSA - Vsphere/VCSA General/VCSA Setup.md",
     "Home Lab/Security Onion/Security Onion Errors/Security Onion Error Codes.md",
+    "Home Lab/Security Onion/Security Onion General/Security Onion Setup.md",
     "Home Lab/Security Onion/Security Onion Errors",
     "Home Lab/Security Onion/Security Onion General",
     "Github Commands.md",
     "Home Lab/Security Onion",
     "Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
-    "Home Lab/VCSA - Vsphere/VCSA General/VCSA Setup.md",
     "Images/Screenshot 2024-09-04 at 18.13.40.png",
     "Home Lab/ESXI/ESXI General/ESXI Update.md",
     "Home Lab/TERRAFORM/TERRAFORM.md",
