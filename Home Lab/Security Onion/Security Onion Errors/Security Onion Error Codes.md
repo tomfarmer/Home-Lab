@@ -1,4 +1,4 @@
-> [!READ ME]
+> [!Warning]
 > Below is a list of errors I have ran into when setting up Sec Onion, some of them are straight up error codes while others are descriptions of what was going wrong and how to fix it.
 
 
