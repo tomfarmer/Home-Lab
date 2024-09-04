@@ -2,7 +2,8 @@
 > [!Note]
 > Below is a list of errors I have ran into when setting up Sec Onion, some of them are straight up error codes while others are descriptions of what was going wrong and how to fix it.
 
-
+---
+## IPTables-dropped
 **Description:**
 IPTables down and no traffic seen in Security Onion or Elastic at all. You can also suppress the errors that are coming to your console by following Resolution 2.
 
@@ -28,4 +29,30 @@ kernel.printk = 3 4 1 3
 ```bash
 sudo sysctl -p
 ```
+---
+## Sensor Not Sending Data
+
+**Description:**
+Sec Onion sensor not sending data to the manager
+**Error:** 
+no data
+**Resolution:**
+you are using the wrong OS and version for sec onion. You need to reset everything up and select the correct version, right now Sec Onion 2.4 is using linux and Oracle Linux 9.x
+**Links:** 
+[Sec Onion 2.4 Base OS](https://docs.securityonion.net/en/latest/virtualbox.html)
+
+---
+
+## Sensor Not Gathering Data from Vswitch
+
+**Description:**
+Sec Onion sensor not gathering network traffic on all ports
+**Error:**
+No data on promiscuous port 
+**Resolution:**
+You need to make sure ESXI has a “mirror” and “vlan 4095” selected/on and “MAC address changes” to allow all multiple sensors NICs.
+**Links:** 
+[Sec Onion on Vswitch](https://github.com/Security-Onion-Solutions/securityonion/discussions/7185)**
+
+---
 
