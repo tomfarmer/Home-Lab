@@ -24,3 +24,4 @@ sudo passwd <username>
 **![Screenshot Ubuntu change password](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNKUnLR-ooooo8p9a3bqaeIcNTNGM0J3gQFo6i34LC3_168T0V2r3eajLsGzUJD21sQAILgAe2UJhgQJhzURZKYd7-mBQOgVMjiOBYE8cACmdH8y4F7LNQWY5n_Lcv6H5wGOqji3nnAcXzkDJxMrHXI9Y1?key=656RGyT2tZdUq0NkJwJfuw)**
 
 
+![](Images/Screenshot.png)
