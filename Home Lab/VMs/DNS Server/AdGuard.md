@@ -1,7 +1,9 @@
 # AdGuard Setup
 
 1) To First setup an AdGuard sever you need to make an Ubuntu Server VM. Make sure you statically assign the DNS server.
+
 	A) I like to make my DNS server either the `x.x.x.2` or the `x.x.x.53` 
+	
 	B) Give the ubuntu server 
 	
 			CPU: 2
