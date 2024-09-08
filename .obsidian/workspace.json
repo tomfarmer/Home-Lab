@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/README.md",
+                "file": "Home Lab/VMs/DNS Server/AdGuard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/README.md",
+                "file": "Home Lab/VMs/DNS Server/AdGuard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/README.md",
+                "file": "Home Lab/VMs/DNS Server/AdGuard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab/README.md"
+                "file": "Home Lab/VMs/DNS Server/AdGuard.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "3ab22fe841d73dd7",
   "lastOpenFiles": [
-    "Untitled.md",
     "Home Lab/README.md",
+    "Untitled.md",
     "Home Lab/VMs/DNS Server/AdGuard.md",
     "Home Lab/VMs/Untitled/Untitled.md",
     "Home Lab/TERRAFORM/Terraform Ubuntu VM Prep.md",
