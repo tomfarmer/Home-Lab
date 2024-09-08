@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/TERRAFORM/Terraform Ubuntu VM Prep.md",
-                "mode": "preview",
+                "file": "Home Lab/README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/TERRAFORM/Terraform Ubuntu VM Prep.md",
+                "file": "Home Lab/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/TERRAFORM/Terraform Ubuntu VM Prep.md",
+                "file": "Home Lab/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab/TERRAFORM/Terraform Ubuntu VM Prep.md"
+                "file": "Home Lab/README.md"
               }
             }
           }
@@ -149,32 +149,35 @@
   },
   "active": "3ab22fe841d73dd7",
   "lastOpenFiles": [
-    "Home Lab/TERRAFORM/Terraform General.md",
+    "Untitled.md",
+    "Home Lab/README.md",
+    "Home Lab/VMs/DNS Server/AdGuard.md",
+    "Home Lab/VMs/Untitled/Untitled.md",
     "Home Lab/TERRAFORM/Terraform Ubuntu VM Prep.md",
-    "Home Lab/Untitled",
-    "Home Lab/Untitled.md",
+    "Home Lab/VMs/DNS Server",
+    "Home Lab/AUntitled.md",
+    "Home Lab/VMs",
+    "Untitled",
+    "Home Lab/TERRAFORM/Terraform General.md",
     "Home Lab/VCSA - Vsphere/VCSA General/VCSA VM Customization Specifications.md",
     "Home Lab/VCSA - Vsphere/VCSA General/VCSA Update.md",
     "Home Lab/VCSA - Vsphere/VCSA General/VCSA Setup.md",
     "Images/Screenshot.png",
     "Images/Screenshot 2024-09-04 at 18.13.40.png",
     "Home Lab/VCSA - Vsphere/VCSA General/VCSA Backup Server.md",
-    "Home Lab/Security Onion/Security Onion General/Security Onion Setup.md",
-    "Home Lab/Security Onion/Security Onion Errors/Security Onion Error Codes.md",
-    "Home Lab/Security Onion/Security Onion Errors",
-    "Home Lab/Security Onion/Security Onion General",
+    "Home Lab/VMs/Security Onion/Security Onion General/Security Onion Setup.md",
+    "Home Lab/VMs/Security Onion/Security Onion Errors/Security Onion Error Codes.md",
+    "Home Lab/VMs/Security Onion/Security Onion Errors",
+    "Home Lab/VMs/Security Onion/Security Onion General",
     "Github Commands.md",
-    "Home Lab/Security Onion",
+    "Home Lab/VMs/Security Onion",
     "Home Lab/ESXI/ESXI General/ESXI Update.md",
-    "Untitled",
     "Home Lab/TERRAFORM",
-    "Untitled.md",
     "Home Lab/ESXI/ESXI General/ESXI UPS Auto Shutdown.md",
     "Home Lab/ESXI/ESXI General/ESXI Setup.md",
     "Images",
     "Purple Range Home Lab/Images",
     "Home Lab/VCSA - Vsphere/VCSA Errors",
-    "Home Lab/VCSA - Vsphere/VCSA General",
     "Purple Range Home Lab/VCSA - Vsphere/Untitled.md",
     "Purple Range Home Lab/ESXI/Untitled.md",
     "Welcome.md",

@@ -1,3 +1,6 @@
+### Link Used To Learn Terraform Templates:
+- [Creating VMs for Kubernetes Using Terraform and VMware vSphere](https://perdue.dev/creating-vms-for-kubernetes-using-terraform-and-vmware-vsphere/#creating-a-template-virtual-machine)
+
 ## Prep a Ubuntu VM for Terraform Template
 
 FORGOT IF THIS WAS FOR THIS OR TERRAFORM

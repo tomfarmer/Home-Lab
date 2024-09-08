@@ -1,6 +1,3 @@
-### Link Used To Learn Terraform:
-- [Creating VMs for Kubernetes Using Terraform and VMware vSphere](https://perdue.dev/creating-vms-for-kubernetes-using-terraform-and-vmware-vsphere/#creating-a-template-virtual-machine)
-
 ### To Launch Terraform:
 Note: This needs to be run from the Terraform directory with the `.tfvars` file in it.
 
